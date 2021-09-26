@@ -17,7 +17,7 @@ from symmetric encryption. Someone with the public key can encrypt a
 message, providing confidentiality, and then only the person in possession of 
 the private key is able to decrypt it.
 
-##What is RSA algorithm?♨
+## What is RSA algorithm?♨
 The RSA algorithm is an asymmetric cryptography algorithm; this means that 
 it uses a public key and a private key (i.e., two different, mathematically linked 
 keys). As their names suggest, a public key is shared publicly, while a private 
